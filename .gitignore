@@ -12,3 +12,5 @@ myvenv/
 *.pdf
 *.xls
 *.xlsx
+pyproject.toml
+uv.lock
